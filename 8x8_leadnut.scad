@@ -3,7 +3,7 @@ $fn=128;
 module nut_body()
 {
 	translate([0,0,1.5])cylinder(r=11, h=3.5);
-	cylinder(r=5.3, h=15);
+	cylinder(r=5.41, h=15);
 }
 
 module lead_nut()
